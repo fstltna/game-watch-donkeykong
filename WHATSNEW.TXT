@@ -1,0 +1,22 @@
+April 3rd, 2001 - Release S3/1.04a (Standard 3, minor bug-fix)
+Fixed a minor bug in the game speed routines (tx to James Wang for letting me
+know)
+
+March 21st, 2001 - Release S3/1.04 (Standard 3, final)
+New standard: totally rewritten sound routines. Fmod sound library 3.31 added;
+new splash-screen and minor updates
+
+February 5th, 2001 - Release 1.03a (graphics bug-fixes)
+Damn! I forgot to change the digits bitmaps and the button-press images
+
+January 26th, 2001 - Release 1.03 (more accuracy and minor updates)
+Background graphics changed to the original game aspect; more accuracy in
+control methods and timing for the hook; changed "about" and "splash" screens;
+reset hiscores option added to the popup menu
+
+May 27th, 2K - Release 1.02 (Bug-fixes and more)
+Fixed two small bugs in the watch routine
+
+May 11th, 2K - Release 1.01 ("More accuracy" release)
+Mario's jump routines modified. Thanks to Werner Buttner from South Africa for
+infos about this!

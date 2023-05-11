@@ -1,0 +1,78 @@
+RELEASE S3/1.04a (Standard 3, minor bug-fix)
+03apr01: Eliminato un piccolo bug dalle routines del calcolo della velocita'
+         di gioco
+
+RELEASE S3/1.04 (Standard 3, final)
+21mar01: Implementata la FMod.dll 3.31 per migliore compatibilita'
+13mar01: Nuovo standard S3: viene sfruttata la libreria audio "fmod.dll" per
+         maggiore stabilita' e qualita'; altre piccole modifiche
+
+RELEASE 1.03a (modifiche grafiche)
+05feb01: Rimosse alcune imperfezioni grafiche
+
+RELEASE 1.03 (maggiore accuratezza e piccole aggiunte)
+26gen01: Cambiata la grafica di sfondo del gioco
+05gen01: Migliore gestione dei controlli e del timer della gru; cambiati gli
+         schermi "about" e lo splashscreen; aggiunta opzione per azzerare gli
+         HiScores.
+
+RELEASE 1.02 (bug-fix)
+27mag00: Fixati due bugs nell'orologio ed uno nella routine della
+         visualizzazione del punteggio
+
+RELEASE 1.01 (maggiore accuratezza)
+10mag00: Modificata la routine di salto di Mario. Grazie a Werner Buttner dal
+         Sud-Africa per la segnalazione
+
+RELEASE 1.00
+07mag00: Eseguite le scansioni e la rielaborazione del libretto delle
+         istruzioni; creato il form, i pulsanti e le routines per le
+         istruzioni; compilato il manuale
+05mag00: Completate le routines per la generazione delle travi; beta-testing
+04mag00: Fixati alcuni bugs; implementate le routines per la generazione ed il
+         movimento delle travi e le loro collisioni con Mario; nuove routines
+         di errore
+03mag00: Rifiatte alcune routines sulle collisioni, sulla generazione dei
+         barili e sul movimento di Donkey Kong; implementato il calcolo esatto
+         del punteggio spettante come bonus; aggiunto lo schermo introduttivo
+         all'avvio del programma; aggiunto il form "About"; aggiunto il popup
+         menu
+02mag00: Aggiunto un effetto sonoro mancante alla routine per la caduta di
+         Donkey Kong; rimossi alcuni bugs dalle routines delle collisioni;
+         implementato il movimento di Donkey Kong e la generazione dei barili;
+         definite le routines per le velocità di gioco e per la gestione dei
+         livelli; preliminari per il movimento delle travi sospese
+01mag00: Modificato e ridotto il numero di MediaPlayers utilizzati;
+         implementate tutte le routines delle collisioni
+29apr00: Implementata la routine per la "Chance-Time" e fatti alcuni piccoli
+         cambiamenti
+28apr00: Completate le routines per il salvataggio degli HiScores mediante il
+         registro di sistema; modificata la routine per il Game Over;
+         implementato il movimento e la generazione dei barili; implementato
+         il punteggio dei barili
+27apr00: Modificate alcuni timers e routines per il bonus e per la ripresa del
+         gioco; aggiunta la routine per il disegno dei cuoricini durante il
+         bonus finale
+26apr00: Campionate ed aggiunte le prime musiche; implementate altre routines
+         di errore; implementata la routine per il taglio dei cavi e per la
+         caduta di Donkey Kong; completate le routines di intermezzo tra gli
+         eventi di errore o bonus
+25apr00: Gestione dei pulsanti; aggiunti i 'popups' sui pulsanti; implementata
+         la modalità orologio; implementato il punteggio mediante LCD; routine
+         preliminare per il salvataggio degli HiScores mediante il registro di
+         sistema; modificate alcune strutture dati; implementate le routines
+         per la preparazione del gioco; implementate le routines per il
+         movimento di Mario; routines preliminari per la perdita delle vite,
+         per la loro visualizzazione mediante LCD e per il Game Over
+23apr00: Terminata la mappatura degli sprites sul display LCD; routines
+         d'avvio; implementata la routine per trascinare il form del gioco
+22apr00: Ancora mappatura degli sprites sul display LCD
+21apr00: Ancora mappatura degli sprites sul display LCD
+20apr00: Cominciata la mappatura degli sprites sul display LCD
+19apr00: Terminata la rielaborazione delle immagini; cominciato il codice
+         Delphi
+18apr00: Ancora rielaborazione delle immagini
+17apr00: Eseguite altre scansioni del gioco elettronico; ancora rielaborazione
+         delle immagini
+16apr00: Eseguite le prime scansioni del gioco elettronico; cominciata la
+         rielaborazione delle immagini
